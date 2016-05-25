@@ -1,0 +1,24 @@
+{
+  "name": "repos",
+  "version": "1.0.0",
+  "description": "backend node api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincentPauley/node_api_backend.git"
+  },
+  "author": "Vincent Pauley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VincentPauley/node_api_backend/issues"
+  },
+  "dependencies" : {
+    "express" : "*",
+    "body-parser" : "*",
+    "mongoose" : "*"
+  },
+  "homepage": "https://github.com/VincentPauley/node_api_backend#readme"
+}
